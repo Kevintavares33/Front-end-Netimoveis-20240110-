@@ -45,9 +45,11 @@ Este repositório contém o código fonte e a configuração do projeto para o s
 
 ## Executando o Projeto
 1. **Click <a href=''>aqui</a> para conhecer.
-2. Deploy feito na <a href='https://vercel.com/'>Vercel</a> 
+2. Deploy feito na <a href='https://vercel.com/'>Vercel</a>
 
-3. **Instalação das Dependências:**
+    **OU**
+
+4. **Instalação das Dependências:**
   
    npm install
 Execução Local:
