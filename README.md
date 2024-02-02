@@ -44,7 +44,7 @@ Este repositório contém o código fonte e a configuração do projeto para o s
   - Biblioteca de testes para Vite, usada para testes de front-end.
 
 ## Acessar ou Executar o Projeto
-1. <h1>Click <a href=''>aqui</a> para conhecer</h1>
+1. <h1>Click <a href=''>aqui</a> para acessar o projeto</h1>
 2. Deploy feito na <a href='https://vercel.com/'>Vercel</a>
 
     **OU**
