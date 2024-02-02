@@ -43,7 +43,7 @@ Este repositório contém o código fonte e a configuração do projeto para o s
 - **vitest**: ^1.2.0
   - Biblioteca de testes para Vite, usada para testes de front-end.
 
-## Executando o Projeto
+## Acessar ou Executando o Projeto
 1. **Click <a href=''>aqui</a> para conhecer.
 2. Deploy feito na <a href='https://vercel.com/'>Vercel</a>
 
@@ -51,19 +51,25 @@ Este repositório contém o código fonte e a configuração do projeto para o s
 
 4. **Instalação das Dependências:**
   
-   npm install
-Execução Local:
 
+## Como Executar Localmente
 
+Siga as etapas abaixo para clonar, instalar as dependências e executar o projeto em sua máquina local.
+
+### Pré-requisitos
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) 
+
+### Clonando o Repositório
+
+git clone https://github.com/Kevintavares33/This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-.git
+
+###Instalando Dependências
+
+cd This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-
+npm install
+
+###Executando o Projeto
 
 npm run dev
-O site estará disponível em http://localhost:3000.
-
-Executando Testes
-Para executar os testes, utilize o seguinte comando:
-
-
-npm test
-
-Este projeto utiliza ferramentas modernas para garantir a qualidade e a manutenibilidade do código. Contribuições são bem-vindas!
-
