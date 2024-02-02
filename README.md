@@ -43,8 +43,8 @@ Este repositório contém o código fonte e a configuração do projeto para o s
 - **vitest**: ^1.2.0
   - Biblioteca de testes para Vite, usada para testes de front-end.
 
-## Acessar ou Executando o Projeto
-1. **Click <a href=''>aqui</a> para conhecer.
+## Acessar ou Executar o Projeto
+1. ***Click <a href=''>aqui</a> para conhecer.
 2. Deploy feito na <a href='https://vercel.com/'>Vercel</a>
 
     **OU**
