@@ -8,7 +8,7 @@ jest.mock('@/src/hooks/useScreenSize', () => ({
 
 describe('<Header />', () => {
   it('renders HeaderDesktop when screen width is greater than md breakpoint', () => {
-    // Mocking the screen width to be greater than md breakpoint
+    
     global.innerWidth = 1000;
 
     render(<Header />);
@@ -18,7 +18,7 @@ describe('<Header />', () => {
   });
 
   it('renders HeaderMobile when screen width is less than or equal to md breakpoint', () => {
-    // Mocking the screen width to be less than or equal to md breakpoint
+   
     global.innerWidth = 500;
 
     render(<Header />);
