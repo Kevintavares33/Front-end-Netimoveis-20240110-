@@ -44,8 +44,10 @@ Este repositório contém o código fonte e a configuração do projeto para o s
   - Biblioteca de testes para Vite, usada para testes de front-end.
 
 ## Executando o Projeto
+1. **Click <a href=''>aqui</a> para conhecer.
+2. Deploy feito na <a href='https://vercel.com/'>Vercel</a> 
 
-1. **Instalação das Dependências:**
+3. **Instalação das Dependências:**
   
    npm install
 Execução Local:
