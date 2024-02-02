@@ -1,6 +1,6 @@
 <h1><span>Front-end Challenge - Netimóveis</span><h1/>
 This is a challenge by <a href="https://coodesh.com/">Coodesh</a>
-
+<h1>Click <a href='https://this-is-a-challenge-by-coodesh-desafio-front-end-qwxbjitcu.vercel.app/'>aqui</a> para acessar o projeto</h1>
 # Desenvolvimento do Site Netimóveis
 
 Este repositório contém o código fonte e a configuração do projeto para o site Netimóveis. O site é desenvolvido utilizando a stack moderna, incluindo Next.js, TypeScript, Tailwind CSS, e ferramentas relacionadas.
@@ -43,23 +43,33 @@ Este repositório contém o código fonte e a configuração do projeto para o s
 - **vitest**: ^1.2.0
   - Biblioteca de testes para Vite, usada para testes de front-end.
 
-## Executando o Projeto
+## Acessar ou Executar o Projeto
+1. <h1>Click <a href='https://this-is-a-challenge-by-coodesh-desafio-front-end-qwxbjitcu.vercel.app/'>aqui</a> para acessar o projeto</h1>
+2. Deploy feito na <a href='https://vercel.com/'>Vercel</a>
 
-1. **Instalação das Dependências:**
+    **OU**
+
+4. **Instalação das Dependências:**
   
-   npm install
-Execução Local:
 
+## Como Executar Localmente
 
+Siga as etapas abaixo para clonar, instalar as dependências e executar o projeto em sua máquina local.
+
+### Pré-requisitos
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) 
+
+### Clonando o Repositório
+
+git clone https://github.com/Kevintavares33/This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-.git
+
+### Instalando Dependências
+
+cd This-is-a-challenge-by-Coodesh--Desafio-Front-end---Netimoveis-20240110-
+npm install
+
+### Executando o Projeto
 
 npm run dev
-O site estará disponível em http://localhost:3000.
-
-Executando Testes
-Para executar os testes, utilize o seguinte comando:
-
-
-npm test
-
-Este projeto utiliza ferramentas modernas para garantir a qualidade e a manutenibilidade do código. Contribuições são bem-vindas!
-
