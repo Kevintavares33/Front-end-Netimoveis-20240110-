@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1><span>Front-end Challenge - Netimóveis</span><h1/>
+This is a challenge by <a href="https://coodesh.com/">Coodesh</a>
 
-## Getting Started
+# Desenvolvimento do Site Netimóveis
 
-First, run the development server:
+Este repositório contém o código fonte e a configuração do projeto para o site Netimóveis. O site é desenvolvido utilizando a stack moderna, incluindo Next.js, TypeScript, Tailwind CSS, e ferramentas relacionadas.
 
-```bash
+## Dependências do Projeto
+
+- **@testing-library/react**: ^14.1.2
+  - Biblioteca de testes para React, usada para escrever testes unitários e de integração.
+
+- **@types/node**: 20.10.8
+  - Tipos TypeScript para Node.js.
+
+- **@types/react**: 18.2.47
+  - Tipos TypeScript para React.
+
+- **@vitejs/plugin-react**: ^4.2.1
+  - Plugin Vite para integração fácil com projetos React.
+
+- **autoprefixer**: ^10.4.16
+  - Plugin PostCSS para adicionar automaticamente prefixos de vendor aos estilos.
+
+- **eslint**: 8.56.0
+  - Linter para JavaScript e TypeScript.
+
+- **eslint-config-next**: 14.0.4
+  - Configuração ESLint específica para projetos Next.js.
+
+- **jsdom**: ^23.2.0
+  - Ambiente de DOM para testes em Node.js.
+
+- **postcss**: ^8.4.33
+  - Ferramenta para transformar estilos CSS com JavaScript.
+
+- **tailwindcss**: ^3.4.1
+  - Framework CSS utilitário para design responsivo.
+
+- **typescript**: 5.3.3
+  - Linguagem de programação TypeScript.
+
+- **vitest**: ^1.2.0
+  - Biblioteca de testes para Vite, usada para testes de front-end.
+
+## Executando o Projeto
+
+1. **Instalação das Dependências:**
+  
+   npm install
+Execução Local:
+
+
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O site estará disponível em http://localhost:3000.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Executando Testes
+Para executar os testes, utilize o seguinte comando:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+npm test
 
-## Learn More
+Este projeto utiliza ferramentas modernas para garantir a qualidade e a manutenibilidade do código. Contribuições são bem-vindas!
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
